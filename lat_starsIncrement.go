@@ -11,7 +11,8 @@ func main() {
 				break
 			}
 
-			//ini komen
+
+			//inikomendihapus
 			fmt.Print("*", " ")
 		}
 
