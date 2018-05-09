@@ -11,6 +11,7 @@ func main() {
 				break
 			}
 
+
 			//inikomendihapus
 			fmt.Print("*", " ")
 		}
