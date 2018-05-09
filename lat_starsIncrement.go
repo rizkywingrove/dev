@@ -10,6 +10,8 @@ func main() {
 			if i == 4 {
 				break
 			}
+
+			//ini komen
 			fmt.Print("*", " ")
 		}
 
